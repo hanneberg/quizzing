@@ -1,5 +1,3 @@
-# Quizzing
-
 ## Aftenposten:
 
 | Dato  | Resultat | 
