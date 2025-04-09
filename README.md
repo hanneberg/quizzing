@@ -1,2 +1,10 @@
-# quizzing
-Aftenpostenquizresultater (og morgenbladet kanskje?)
+# Quizzing
+
+## Aftenposten:
+| Dato  | Resultat |
+|-------|----------|
+| 09.04 | ?/10     |
+| 10.04 | ?/10     |
+| 11.04 | ?/10     |
+| 14.04 | ?/10     |
+| 15.04 | ?/10     |
